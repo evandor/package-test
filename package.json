@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/evandor/package-test/issues"
   },
-  "homepage": "https://github.com/evandor/package-test#readme"
+  "homepage": "https://github.com/evandor/package-test#readme",
+  "publishConfig": {
+    "@evandor:registry": "https://npm.pkg.github.com"
+  }
 }
